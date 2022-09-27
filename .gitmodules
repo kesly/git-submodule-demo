@@ -1,0 +1,3 @@
+[submodule "awesomeProject"]
+	path = awesomeProject
+	url = https://github.com/kesly/awesomeProject
